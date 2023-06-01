@@ -279,7 +279,7 @@ const autoRewrite = ref(false)
 const infos = reactive<InfoItem[]>([])
 const needSave = ref(false)
 // TODO：暂时限制表单的题目数为10，遇到case再修改
-const showAddInfo = computed(() => infos.length < 10 && !openPreview.value)
+const showAddInfo = computed(() => infos.length < 50 && !openPreview.value)
 // 负责清空
 watch(
   () => props.info,

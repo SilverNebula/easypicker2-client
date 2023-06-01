@@ -89,7 +89,7 @@
               >
                 <el-form-item prop="peopleName" label="姓名">
                   <el-input
-                    :maxlength="14"
+                    :maxlength="100"
                     clearable
                     show-word-limit
                     placeholder="参与者填写"

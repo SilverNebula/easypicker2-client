@@ -14,13 +14,14 @@
         rel="noopener"
         >v{{ version }}</a
       >
-      © 2019 - {{ currentYear }} by
+      © 2019 - {{ currentYear }} by 
       <a
         target="_blank"
         rel="noopener"
         href="https://docs.ep.sugarat.top/author.html"
         >粥里有勺糖</a
       >
+      Temporarily modified by ShenLab SilverN
     </p>
   </div>
 </template>

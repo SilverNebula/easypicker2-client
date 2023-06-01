@@ -4,7 +4,7 @@
     <header>
       <HomeHeader />
     </header>
-    <h1 class="title">EasyPicker</h1>
+    <h1 class="title">EasyPicker(Local deployment)</h1>
 
     <!-- 简介 -->
     <section class="introduce">
